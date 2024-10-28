@@ -1,0 +1,24 @@
+{
+  "@id" : "http://192.168.3.130:8090/tas/api/v1/vc-schema?name=certificate",
+  "@schema" : "https://opendid.org/schema/vc.osd",
+  "title" : "OpenDID Certificate Verifiable Credential",
+  "description" : "VC-formatted OpenDID enrollment certificate.",
+  "metadata" : {
+    "language" : "ko",
+    "formatVersion" : "1.0"
+  },
+  "credentialSubject" : {
+    "claims": [
+      {
+        "namespace": {
+          "id" : "org.opendid.v1",
+          "name" : "OpenDID - Certificate Verifiable Credential"
+        },
+        "items" : [
+          {"id": "subject", "caption": "subject", "type": "text", "format": "plain"},
+          {"id": "role", "caption": "role", "type": "text", "format": "plain"}
+        ]
+      }
+    ]
+  }
+}
