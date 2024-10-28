@@ -178,7 +178,7 @@ did-ta-server
 ├── CLA.md
 ├── CODE_OF_CONDUCT.md
 ├── CONTRIBUTING.md
-├── LICENSE-dependencies.md
+├── dependencies-license.md
 ├── MAINTAINERS.md
 ├── README.md
 ├── RELEASE-PROCESS.md
@@ -193,7 +193,7 @@ did-ta-server
 │   └── db
 │       └── OpenDID_TableDefinition_TAS.md
 └── source
-    └── did-tas-server
+    └── did-ta-server
         ├── gradle
         ├── libs
             └── did-sdk-common-1.0.0.jar
@@ -213,7 +213,7 @@ did-ta-server
 | CHANGELOG.md            | 프로젝트의 버전별 변경 사항              |
 | CODE_OF_CONDUCT.md      | 기여자들을 위한 행동 강령                |
 | CONTRIBUTING.md         | 기여 지침 및 절차                        |
-| LICENSE-dependencies.md | 프로젝트 의존 라이브러리의 라이선스 정보 |
+| dependencies-license.md | 프로젝트 의존 라이브러리의 라이선스 정보 |
 | MAINTAINERS.md          | 프로젝트 관리자를 위한 지침              |
 | RELEASE-PROCESS.md      | 새로운 버전을 릴리스하는 절차            |
 | SECURITY.md             | 보안 정책 및 취약성 보고 방법            |
