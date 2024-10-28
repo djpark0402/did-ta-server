@@ -1,0 +1,4 @@
+id,app_id,push_token,status,user_id
+1,app1,token1,ASSIGNED,1
+2,app2,token2,ASSIGNED,2
+3,app3,token3,ASSIGNED,3
