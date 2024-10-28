@@ -8,13 +8,13 @@ This repository contains the source code, documentation, and related resources f
 Overview of the major folders and documents in the project directory:
 
 ```
-did-tas-server
+did-ta-server
 ├── CHANGELOG.md
 ├── CLA.md
 ├── CODE_OF_CONDUCT.md
 ├── CONTRIBUTING.md
 ├── LICENSE
-├── LICENSE-dependencies.md
+├── dependencies-license.md
 ├── MAINTAINERS.md
 ├── README.md
 ├── RELEASE-PROCESS.md
@@ -29,7 +29,7 @@ did-tas-server
 │   └── db
 │       └── OpenDID_TableDefinition_TAS.md
 └── source
-    └── did-tas-server
+    └── did-ta-server
         ├── gradle
         ├── libs
             └── did-sdk-common-1.0.0.jar
@@ -54,7 +54,7 @@ Below is a description of each folder and file in the directory:
 | CODE_OF_CONDUCT.md      | Code of conduct for contributors                |
 | CONTRIBUTING.md         | Contribution guidelines and procedures          |
 | LICENSE                 | License                                        |
-| LICENSE-dependencies.md | Licenses for the project’s dependency libraries |
+| dependencies-license.md | Licenses for the project’s dependency libraries |
 | MAINTAINERS.md          | Guidelines for project maintainers              |
 | RELEASE-PROCESS.md      | Procedures for releasing new versions           |
 | SECURITY.md             | Security policies and vulnerability reporting   |
@@ -64,7 +64,7 @@ Below is a description of each folder and file in the directory:
 | ┖ installation          | Installation and setup instructions             |
 | ┖ db                    | Database ERD,  Table Specifications             |
 | source                  | Server source code project                      |
-| ┖ did-tas-server        | TAS Server source code and build files          |
+| ┖ did-ta-server        | TAS Server source code and build files          |
 | ┖ gradle                | Gradle build configurations and scripts         |
 | ┖ libs                  | External libraries and dependencies             |
 | ┖ sample                | Sample files                                    |
