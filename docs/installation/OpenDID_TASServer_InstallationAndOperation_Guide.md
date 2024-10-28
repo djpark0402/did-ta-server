@@ -176,7 +176,7 @@ did-ta-server
 ├── CLA.md
 ├── CODE_OF_CONDUCT.md
 ├── CONTRIBUTING.md
-├── LICENSE-dependencies.md
+├── dependencies-license.md
 ├── MAINTAINERS.md
 ├── README.md
 ├── RELEASE-PROCESS.md
@@ -193,7 +193,7 @@ did-ta-server
 │       └── OpenDID_ERD_TAS.png
 │       └── OpenDID_TableDefinition_TAS.md
 └── source
-    └── did-tas-server
+    └── did-ta-server
         ├── gradle
         ├── libs
             └── did-sdk-common-1.0.0.jar
@@ -213,7 +213,7 @@ did-ta-server
 | CHANGELOG.md            | Changes by version for the project           |
 | CODE_OF_CONDUCT.md      | Code of conduct for contributors             |
 | CONTRIBUTING.md         | Contribution guidelines and procedures       |
-| LICENSE-dependencies.md | License information for project dependencies |
+| dependencies-license.md | License information for project dependencies |
 | MAINTAINERS.md          | Guidelines for project maintainers           |
 | RELEASE-PROCESS.md      | Procedure for releasing a new version        |
 | SECURITY.md             | Security policy and vulnerability reporting  |
@@ -223,7 +223,7 @@ did-ta-server
 | ┖ installation          | Installation and configuration guide         |
 | ┖ db                    | Database ERD and table specifications        |
 | source                  | Source code                                  |
-| ┖ did-tas-server        | TAS server source code and build files       |
+| ┖ did-ta-server         | TAS server source code and build files       |
 | ┖ gradle                | Gradle build configuration and scripts       |
 | ┖ libs                  | External libraries and dependencies          |
 | ┖ sample                | Sample files                                 |
