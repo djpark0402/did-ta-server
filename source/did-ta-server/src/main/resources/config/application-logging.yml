@@ -1,0 +1,18 @@
+logging:
+  group:
+    util:
+      - org.omnione.did.base.util
+    list:
+      - org.omnione.did.list
+    tas:
+      - org.omnione.did.tas
+    noti:
+      - org.omnione.did.noti
+    aop:
+      - org.omnione.did.base.aop
+  level:
+    list: debug
+    tas: debug
+    aop: debug
+    noti: debug
+    util: debug

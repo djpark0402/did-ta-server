@@ -1,0 +1,4 @@
+id,wallet_id,did,status,user_id,entity_id,registered_at
+1,wallet1,did:omn:wallet1,ASSIGNED,1,4,2024-01-01 00:00:00
+2,wallet2,did:omn:wallet2,ASSIGNED,2,4,2024-01-01 00:00:00
+3,wallet3,did:omn:wallet3,ASSIGNED,3,4,2024-01-01 00:00:00

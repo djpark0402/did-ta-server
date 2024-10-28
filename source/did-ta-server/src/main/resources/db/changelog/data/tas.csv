@@ -1,0 +1,2 @@
+id,did,name,status,server_url,certificate_url
+1,did:omn:tas,raonsecure,COMPLETED,http://192.168.3.130:8090/,http://192.168.3.130:8090/tas/api/v1/download/vc?name=tas

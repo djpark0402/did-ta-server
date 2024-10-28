@@ -1,0 +1,5 @@
+id,did,name,role,status,server_url,certificate_url
+1,did:omn:issuer,Issuer,ISSUER,COMPLETED,http://192.168.3.130:8091/issuer,http://192.168.3.130:8090/tas/api/v1/download/vc?name=issuer
+2,did:omn:verifier,Verifier,VERIFIER,COMPLETED,http://192.168.3.130:8092/,http://192.168.3.130:8090/tas/api/v1/download/vc?name=verifier
+3,did:omn:cas,AppProvider,APP_PROVIDER,COMPLETED,http://192.168.3.130:8094/cas,http://192.168.3.130:8090/tas/api/v1/download/vc?name=cas
+4,did:omn:wallet,WalletProvider,WALLET_PROVIDER,COMPLETED,http://192.168.3.130:8095/wallet,http://192.168.3.130:8090/tas/api/v1/download/vc?name=wallet
